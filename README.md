@@ -23,11 +23,13 @@ Recall = 0.9379
 Time taken :141.083000183  
 
  
-## Model Based Small  
+## Model Based
+### Small
+
 Root Mean Squared Error = 0.945888630096 <br />
 {0: 13959, 1: 3950, 2: 693, 3: 123, 4: 8} <br />
 Time taken :92.0870001316 <br />
-Big <br />
+### Big
 Root Mean Squared Error = 0.828714545399 <br />
 {0: 3206075, 1: 745786, 2: 86074, 3: 8176, 4: 220} <br />
 Time taken :686.105604009 <br />
@@ -39,12 +41,12 @@ Root Mean Squared Error = 0.947287744943  <br />
 Time taken :152.724999905  <br />
 
 ## Item Based 
-Root Mean Squared Error without LSH = 1.1469380972  <br />
+Root Mean Squared Error **without LSH** = 1.1469380972  <br />
 Predictions without LSH  <br />
 {0: 13739, 1: 4628, 2: 1329, 3: 452, 4: 108} <br />  
 Time taken :269.595000029  <br />
  
-Root Mean Squared Error with LSH = 0.968559328515  <br />
+Root Mean Squared Error **with LSH** = 0.968559328515  <br />
 Predictions with LSH  <br />
 {0: 14825, 1: 4412, 2: 871, 3: 143, 4: 5} <br /> 
 Time taken :64.3229999542 <br />
