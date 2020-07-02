@@ -3,9 +3,12 @@ Recommendation systems built for Movie Lens dataset using jaccard similarity, us
 
   
 ## Execution: 
-spark-2.2.1-bin-hadoop2.7\bin\spark-submit Tanay_Shankar_task1_Jaccard.py ratings.csv 
+spark-2.2.1-bin-hadoop2.7\bin\spark-submit Tanay_Shankar_task1_Jaccard.py ratings.csv
+
 spark-2.2.1-bin-hadoop2.7\bin\spark-submit Tanay_Shankar_task2_ModelBasedCF.py ratings.csv testing_small.csv 
+
 spark-2.2.1-bin-hadoop2.7\bin\spark-submit Tanay_Shankar_task2_UserBasedCF.py ratings.csv testing_small.csv 
+
 spark-2.2.1-bin-hadoop2.7\bin\spark-submit Tanay_Shankar_task2_ItemBasedCF.py ratings.csv testing_small.csv 
  
 (Note: All filenames can be replaced by file path as well) 
