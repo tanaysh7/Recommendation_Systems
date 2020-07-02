@@ -43,7 +43,7 @@ Time taken :152.724999905  <br />
 ## Item Based 
 Root Mean Squared Error **without LSH** = 1.1469380972  <br />
 Predictions without LSH  <br />
-{0: 13739, 1: 4628, 2: 1329, 3: 452, 4: 108} <br />  
+{0: 13739, 1: 4628, 2: 1329, 3: 452, 4: 108} <br />
 Time taken :269.595000029  <br />
  
 Root Mean Squared Error **with LSH** = 0.968559328515  <br />
